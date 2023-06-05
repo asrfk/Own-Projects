@@ -1,0 +1,4 @@
+﻿  random word picker.cpp
+C:\Users\13142\source\repos\random word picker\random word picker\random word picker.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\13142\source\repos\random word picker\random word picker\random word picker.cpp(30,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  random word picker.vcxproj -> C:\Users\13142\source\repos\random word picker\x64\Debug\random word picker.exe
